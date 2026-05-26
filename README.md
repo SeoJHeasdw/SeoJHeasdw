@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">안녕하세요 👋, 서제호입니다 (Hi 👋, I'm Jaeho Seo)</h1>
+<h3 align="center">💡 "The Bridge Between Robust Full-Stack and Cutting-Edge AI"</h3>
 
-<!--
-**SeoJHeasdw/SeoJHeasdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+AI+Engineer+%F0%9F%9A%80;Agentic+RAG+%7C+Fine-tuning+%7C+OpenShift;Enterprise+AI+%EC%8B%A4%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B5%AC%ED%98%84+%EC%A0%84%EB%AC%B8!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  저는 <strong>7년 차 풀스택 개발자의 단단한 엔지니어링 기반</strong> 위에 <strong>AI 엔지니어링(RAG, Fine-tuning)</strong>과 <strong>Cloud/Infra</strong> 역량을 결합하여,<br/>
+  실험실 수준의 모델을 엔터프라이즈 환경의 실서비스로 구현하는 엔지니어입니다.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ What Sets Me Apart (핵심 강점)
+
+- **🧩 Rare Intersection (Full-Stack + AI):** Java(Spring Boot), Vue, TypeScript 기반의 풍부한 실서비스 경험으로, 즉시 투입 가능한 고성능 AI 아키텍처를 설계합니다.
+- **🏭 Enterprise Production Track Record:** 대기업 및 금융권 엔터프라이즈 도메인에서 대규모 AI 시스템 구축을 이끌어왔습니다. (KT DS vTF 리더 ➡️ IBM Korea AI Engineer)
+- **🛡️ Infrastructure Depth:** OpenShift, AKS, ArgoCD 환경에 대한 깊은 이해를 바탕으로 아키텍처 설계부터 인프라 레벨 트러블슈팅까지 직접 수행합니다.
+- **🎙️ Knowledge Sharing & Leadership:** 사내 기술 강사 활동 및 Udemy 강의(*Agentic RAG*) 개설을 통해 복잡한 기술을 명확하게 전달하고 공유하는 문화를 즐깁니다.
+
+---
+
+## 🛠️ 기술 스택 (Tech Stack)
+
+| 분야 | 기술 |
+| :--- | :--- |
+| **AI & LLM** | Agentic RAG, Advanced RAG, Embedding/Reranker Fine-tuning (BGE-M3), Quantization |
+| **Backend & Frontend** | Java (Spring Boot), Python (FastAPI), Vue.js, TypeScript |
+| **DevOps & Cloud** | Kubernetes, OpenShift, Azure (AKS), ArgoCD |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_watsonx-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+---
+
+## 📈 경력 (Experience)
+
+**IBM Korea** — *AI Engineer* (현재)
+- 엔터프라이즈(삼성디스플레이 등) AI 플랫폼 구축 및 전환 프로젝트 수행
+
+**KT DS** — *AI Developer & vTF Technical Leader*
+- AI 신기술 테스크포스 리딩 및 엔터프라이즈 서비스 개발
+- 사내 기술 강사 (AI / Full-Stack 부문)
+
+---
+
+## 🎓 강의 & 교육 자료 (Courses & Materials)
+
+| | 제목 | 설명 | 링크 |
+| :---: | :--- | :--- | :---: |
+| 🎬 | **Agentic RAG** | Udemy 정규 강의 — Agentic RAG 설계 및 구현 | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/course/agentic-rag/) |
+| 📦 | **edu-agentic-rag** | Agentic RAG 강의 실습 자료 & 코드 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeoJHeasdw/edu-agentic-rag) |
+| 📦 | **edu-ai-deep-dive** | MCP · Agent · RAG · 벡터 · NLP 14시간 이론+실습 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeoJHeasdw/edu-ai-deep-dive-repo) |
+
+---
+
+## 📊 GitHub 통계
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeoJHeasdw&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJHeasdw&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 연락처 (Contact)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/%EC%A0%9C%ED%98%B8-%EC%84%9C-89588034b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.udemy.com/course/agentic-rag/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  </a>
+  <a href="mailto:dngktjd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
