@@ -12,7 +12,7 @@
 
 ---
 
-## What Sets Me Apart (핵심 강점)
+## 핵심 강점 (What Sets Me Apart)
 
 - **🧩 Rare Intersection (Full-Stack + AI):** Java, Python, 프론트엔드까지 아우르는 실서비스 경험으로, 즉시 투입 가능한 고성능 AI 아키텍처를 설계합니다.
 - **🏭 Enterprise Production Track Record:** 대기업 및 금융권 엔터프라이즈 도메인에서 대규모 AI 시스템 구축을 이끌어왔습니다. (KT DS vTF 리더 ➡️ IBM Korea AI Engineer)
@@ -25,9 +25,9 @@
 
 | 분야 | 기술 |
 | :--- | :--- |
-| **AI & LLM** | Agentic RAG, Embedding/Reranker Fine-tuning ([HuggingFace ↗](https://huggingface.co/SeoJHeasdw/ktds-vue-code-search-reranker-ko)), Quantization |
+| **AI & LLM** | Agentic RAG, Multi-Agent, Embedding/Reranker Fine-tuning ([HuggingFace ↗](https://huggingface.co/SeoJHeasdw/ktds-vue-code-search-reranker-ko)), Quantization |
 | **Backend & Frontend** | Java, Python, JavaScript/TypeScript, Vue.js, MSA |
-| **Database** | PostgreSQL, Oracle, Qdrant, FAISS |
+| **Database** | PostgreSQL, Oracle, Qdrant, FAISS, Neo4j |
 | **DevOps & Cloud** | Kubernetes, OpenShift, Azure (AKS), ArgoCD |
 
 <p align="left">
@@ -57,6 +57,9 @@
 - AI 신기술 테스크포스 리딩 및 엔터프라이즈 서비스 개발
 - 사내 기술 강사 (AI / Full-Stack 부문)
 
+**위세아이텍 (WiseItech)** — *Software Engineer*
+- BI/DW 솔루션 개발 및 대용량 데이터 파이프라인(ETL), 데이터 표준화 구축
+- 정형/비정형 데이터 엔지니어링 기반의 탄탄한 백엔드 시스템 개발
 ---
 
 ## 🎓 강의 & 교육 자료 (Courses & Materials)
