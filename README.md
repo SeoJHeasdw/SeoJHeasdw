@@ -12,12 +12,12 @@
 
 ---
 
-## 핵심 강점 (What Sets Me Apart)
+## 🧱 핵심 강점 (What Sets Me Apart)
 
-- **🧩 Rare Intersection (Full-Stack + AI):** Java, Python, 프론트엔드까지 아우르는 실서비스 경험으로, 즉시 투입 가능한 고성능 AI 아키텍처를 설계합니다.
-- **🏭 Enterprise Production Track Record:** 대기업 및 금융권 엔터프라이즈 도메인에서 대규모 AI 시스템 구축을 이끌어왔습니다. (KT DS vTF 리더 ➡️ IBM Korea AI Engineer)
-- **🛡️ Infrastructure Depth:** OpenShift, AKS, ArgoCD 환경에 대한 깊은 이해를 바탕으로 아키텍처 설계부터 인프라 레벨 트러블슈팅까지 직접 수행합니다.
-- **🎙️ Knowledge Sharing & Leadership:** 사내 기술 강사 활동 및 Udemy 강의(*Agentic RAG*) 개설을 통해 복잡한 기술을 명확하게 전달하고 공유하는 문화를 즐깁니다.
+- **🧩 Rare Intersection (Full-Stack + AI) :** Java, Python, 프론트엔드까지 아우르는 실서비스 경험으로, 즉시 투입 가능한 고성능 AI 아키텍처를 설계합니다.
+- **🏭 Enterprise Production Track Record :** 대기업 및 금융권 엔터프라이즈 도메인에서 대규모 AI 시스템 구축을 이끌어왔습니다. (KT DS vTF 리더 ➡️ IBM Korea AI Engineer)
+- **🛡️ Infrastructure Depth :** OpenShift, AKS, ArgoCD 환경에 대한 깊은 이해를 바탕으로 아키텍처 설계부터 인프라 레벨 트러블슈팅까지 직접 수행합니다.
+- **🎙️ Knowledge Sharing & Leadership :** 사내 기술 강사 활동 및 Udemy 강의(*Agentic RAG*) 개설을 통해 복잡한 기술을 명확하게 전달하고 공유하는 문화를 즐깁니다.
 
 ---
 
