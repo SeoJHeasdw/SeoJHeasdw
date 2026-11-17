@@ -1,13 +1,8 @@
-<h1 align="center">안녕하세요 👋, 서제호입니다 (Hi 👋, I'm Jaeho Seo)</h1>
-<h3 align="center">💡 "The Bridge Between Robust Full-Stack and Cutting-Edge AI"</h3>
+<h1 align="center">서제호 · Jaeho Seo</h1>
+<h3 align="center">IBM Korea · AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+AI+Engineer+%F0%9F%9A%80;Agentic+RAG+%7C+Fine-tuning+%7C+Kubernetes" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  저는 <strong>7년 차 풀스택 개발자</strong>로, Java · Python · 프론트엔드를 아우르는 탄탄한 엔지니어링 기반 위에<br/>
-  모델 서빙, 에이전트 설계, RAG 구축 등 AI 엔지니어링 역량을 더한 <strong>Full-Cycle AI Engineer</strong>입니다.
 </p>
 
 <p align="center">
@@ -21,23 +16,17 @@
 
 ---
 
-## 🧱 핵심 강점 (What Sets Me Apart)
+## RICE
 
-- **🧩 Rare Intersection (Full-Stack + AI) :** Java, Python, 프론트엔드까지 아우르는 실서비스 경험으로, 즉시 투입 가능한 고성능 AI 아키텍처를 설계합니다.
-- **🏭 Enterprise Production Track Record :** 대기업 및 금융권 엔터프라이즈 도메인에서 대규모 AI 시스템 구축을 이끌어왔습니다. (KT DS vTF 리더 ➡️ IBM Korea AI Engineer)
-- **🛡️ Infrastructure Depth :** OpenShift, AKS, ArgoCD 환경에 대한 깊은 이해를 바탕으로 아키텍처 설계부터 인프라 레벨 트러블슈팅까지 직접 수행합니다.
-- **🎙️ Knowledge Sharing & Leadership :** 사내 기술 강사 활동 및 Udemy 강의(*Agentic RAG*) 개설을 통해 복잡한 기술을 명확하게 전달하고 공유하는 문화를 즐깁니다.
+로컬 모델에 도구·스킬·메모리를 연결하는 AI 데스크톱 앱입니다.
+
+[![RICE 실행 계획과 도구 실행 내역, 생성된 HTML 파일](./rice-profile-preview.png)](https://github.com/SeoJHeasdw/riceAgent)
+
+<sub>실행 계획과 도구 실행 내역, 생성된 HTML 파일</sub>
 
 ---
 
 ## 🛠️ 기술 스택 (Tech Stack)
-
-| 분야 | 기술 |
-| :--- | :--- |
-| **AI & LLM** | Agentic RAG, Multi-Agent, Embedding/Reranker Fine-tuning ([HuggingFace ↗](https://huggingface.co/SeoJHeasdw/ktds-vue-code-search-reranker-ko)), Quantization |
-| **Backend & Frontend** | Java, Python, JavaScript/TypeScript, Vue.js, MSA |
-| **Database** | PostgreSQL, Oracle, Qdrant, FAISS, Neo4j |
-| **DevOps & Cloud** | Kubernetes, OpenShift, Azure (AKS), ArgoCD |
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,12 +37,31 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-FF4A6E?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM_watsonx-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
+
+| 분야 | 기술 |
+| :--- | :--- |
+| **AI & LLM** | Agentic RAG, Multi-Agent, Embedding/Reranker Fine-tuning ([HuggingFace ↗](https://huggingface.co/SeoJHeasdw/ktds-vue-code-search-reranker-ko)), Quantization |
+| **Backend & Frontend** | Java, Python, JavaScript/TypeScript, Vue.js, MSA |
+| **Database** | PostgreSQL, Oracle, Qdrant, FAISS, Neo4j |
+| **DevOps & Cloud** | Kubernetes, OpenShift, Azure (AKS), ArgoCD |
+
+---
+
+## 🧱 핵심 강점 (What Sets Me Apart)
+
+저는 <strong>7년 차 풀스택 개발자</strong>로, Java · Python · 프론트엔드를 아우르는 탄탄한 엔지니어링 기반 위에 모델 서빙, 에이전트 설계, RAG 구축 등 AI 엔지니어링 역량을 더한 <strong>Full-Cycle AI Engineer</strong>입니다.
+
+- **🧩 Rare Intersection (Full-Stack + AI) :** Java, Python, 프론트엔드까지 아우르는 실서비스 경험으로, 즉시 투입 가능한 고성능 AI 아키텍처를 설계합니다.
+- **🏭 Enterprise Production Track Record :** 대기업 및 금융권 엔터프라이즈 도메인에서 대규모 AI 시스템 구축을 이끌어왔습니다. (KT DS vTF 리더 ➡️ IBM Korea AI Engineer)
+- **🛡️ Infrastructure Depth :** OpenShift, AKS, ArgoCD 환경에 대한 깊은 이해를 바탕으로 아키텍처 설계부터 인프라 레벨 트러블슈팅까지 직접 수행합니다.
+- **🎙️ Knowledge Sharing & Leadership :** 사내 기술 강사 활동 및 Udemy 강의(*Agentic RAG*) 개설을 통해 복잡한 기술을 명확하게 전달하고 공유하는 문화를 즐깁니다.
 
 ---
 
